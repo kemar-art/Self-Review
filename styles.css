@@ -1,6 +1,6 @@
 header {
-	width: 100%;
-	height: auto;
+  width: 100%;
+  height: auto;
 }
 
 header img {
@@ -30,16 +30,16 @@ header img {
 }
 
 @media only screen and (max-width: 800px) {
-
 	#content .video iframe {
 		max-width: 100%;
 		min-width: 100%;
 	}
+
 	.links ul li a {color: red;}
 }
 
 #form {
-	display: flex;
+  display: flex;
 	justify-content: center;
 }
 
@@ -48,11 +48,11 @@ form * {
 }
 
 input[type="email"] {
-	width: 300px;
+  width: 300px;
 }
 
 #submit {
-	background-color: green;
+  background-color: green;
 	border: none;
 	border-radius: 5px;
 	padding: 0px 12px;
@@ -62,6 +62,6 @@ input[type="email"] {
 }
 
 #submit:hover {
-	background-color: #fff;
+  background-color: #fff;
 	color: green;
 }
