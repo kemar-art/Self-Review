@@ -34,12 +34,11 @@ header img {
     max-width: 100%;
     min-width: 100%;
   }
+
   .links ul li a {
     color: red;
   }
 }
-
-
 
 #form {
   display: flex;
@@ -60,7 +59,7 @@ input[type="email"] {
   border-radius: 5px;
   padding: 0px 12px;
   text-align: center;
-  transition: 0.5s;
+  transition: 1.5s;
   font-size: 1rem;
 }
 
