@@ -57,7 +57,7 @@ input[type="email"] {
   background-color: green;
   border: none;
   border-radius: 5px;
-  padding: 0px 12px;
+  padding: 12px;
   text-align: center;
   transition: 1.5s;
   font-size: 1rem;
