@@ -1,10 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Code Reviewer.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+> This was a code that was written at addmisoin trial. I am now going to review it. 
 
 Additional description about the project and its features.
 
